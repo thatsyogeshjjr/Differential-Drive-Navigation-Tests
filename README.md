@@ -1,7 +1,9 @@
 # Kobuki navigation testbed (MuJoCo)
-
-TurtleBot 2 / Kobuki differential-drive robot in MuJoCo. Three interchangeable navigation controllers, a dataset recorder, and a reproducible evaluation harness.
+_TurtleBot 2 / Kobuki differential-drive robot in MuJoCo. Three interchangeable navigation controllers, a dataset recorder, and a reproducible evaluation harness._
 Dependencies: `mujoco`, `numpy`.
+
+<img width="826" height="697" alt="screenshot" src="https://github.com/user-attachments/assets/841f880d-217f-4be6-83a8-b9476c9c246b" />
+
 
 ```
 python -m venv .venv && .venv\Scripts\pip install -r requirements.txt
